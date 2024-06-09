@@ -1,0 +1,1 @@
+This folder contain supported images for this app
